@@ -1,4 +1,4 @@
-# 👨‍💼 HARI YOGESH RAM B — Data Analyst | Python | SQL | Power BI
+# 👨‍💼 HARI YOGESH RAM B — Data Analyst | Python | SQL | Power BI | Excel
 
 Welcome to my portfolio! I'm a **data-driven professional** with 2.5 years of experience transforming raw data into actionable insights using Python, SQL, Power BI, and automation tools. From building end-to-end ETL pipelines to developing real-time dashboards, I specialize in delivering impactful analytics solutions across Tech, Retail, Healthcare, and Finance domains.
 
@@ -6,8 +6,11 @@ Welcome to my portfolio! I'm a **data-driven professional** with 2.5 years of ex
 
 ## 🚀 About Me
 
-🎯 **Aspiring to make data tell compelling stories!**  
-I'm HARI YOGESH RAM B — a passionate and self-motivated **Data Analyst** based in Chennai, India. I bring a solid foundation from Cognizant and a strong analytical mindset gained through various real-time data projects.
+🎯 **Driven by a passion for turning data into compelling stories!**  
+
+I'm **HARI YOGESH RAM B**, a dedicated and results-driven **Data Analyst** based in Chennai, India. I began my career as a **Junior Data Analyst at Cognizant**, where I gained a strong foundation in software development and data analysis.  
+
+Through various real-time analytics projects, I have cultivated a keen analytical mindset and a proven ability to deliver actionable insights using tools like **Python**, **SQL**, **Power BI**, and **Excel**.
 
 ---
 
@@ -22,7 +25,6 @@ I'm HARI YOGESH RAM B — a passionate and self-motivated **Data Analyst** based
 - Integrated **MySQL Connector** for dynamic table creation and data ingestion  
 - Enabled faster business decisions through real-time insights and clean data delivery  
 
----
 
 ### 🟦 **Junior Data Analyst — Cognizant Technology Solutions**  
 📍 *Nov 2022 – Dec 2023 | Chennai, TN*
@@ -82,10 +84,12 @@ I'm HARI YOGESH RAM B — a passionate and self-motivated **Data Analyst** based
 
 ---
 
-### 💬 Quotes
+### 💬 Quotes I Live By
 
-> *“Transforming insights into impact through data.”*
-> *“Great analysts don’t just deliver dashboards — they discover decisions.”*
-> *“A true Data Analyst turns raw data into revelations — storytelling with evidence, not assumptions.”*
+1. **“Transforming insights into impact through data.”**
+
+2. **“Great analysts don’t just deliver dashboards — they discover decisions.”**
+
+3. **“A true Data Analyst turns raw data into revelations — storytelling with evidence, not assumptions.”**
 
 ---
