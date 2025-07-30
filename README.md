@@ -64,16 +64,6 @@ I'm HARI YOGESH RAM B — a passionate and self-motivated **Data Analyst** based
 
 ---
 
-## 🧪 Projects
-
-- **📊 Streamlit Dashboards** for interactive analytics  
-- **📈 Excel Automation Tools** using Python GUI  
-- **📂 Social Media Analytics** for YouTube & PhonePe datasets  
-- **🧠 EDA Projects** with real-time datasets across various sectors  
-- **📦 Data Warehousing** and ETL pipelines with structured storage
-
----
-
 ## 🏆 Certifications
 
 - ✅ *IIT-M Advanced Programming Professional & Master Data Science*  
